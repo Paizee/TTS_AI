@@ -24,8 +24,9 @@
    5. Geben sie ihren API Key ein. Anleitung für den API Key: https://help.elevenlabs.io/hc/en-us/articles/14599447207697-How-to-authorize-yourself-using-your-xi-api-key
    6. Wählen sie ein Model und eine Stimme aus. Wenn sie Stimmen in ihrem Elevenlabs Konto hinzufügen können sie diese auch in der App nutzen.
    7. Geben sie einen Text ein die die KI sprechen soll.
-   8. Ändern sie das Ausgabegerät für die App unter Einstellungen -> System -> Sound -> Lautstärke mixer -> Drücke sie auf den Pfeil rechts neben der App -> Ausgabegerät auf "Cable Input stellen".
-   9. Drücken sie auf "Generate". Die erste Naricht funktioniert meistens nicht.
+   8. Ändern sie das Ausgabegerät für die App unter Einstellungen -> System -> Sound -> Lautstärke mixer -> Drücke sie auf den Pfeil rechts neben der App -> Ausgabegerät auf "Cable Input" stellen.
+   9. Stellen sie ihr Eingabegerät bei z.b.: Teamspeak, Discord, etc. auf "Cable Output"
+   10. Drücken sie auf "Generate". Die erste Naricht funktioniert meistens nicht.
   
 
      
